@@ -1,2 +1,6 @@
-# front-end-mentor-challenge-2
-front-end mentor four-card-feature-section-master
+# Frontend Mentor - Four card feature section
+
+![Design preview for the Four card feature section coding challenge](./1st.png)
+
+## Welcome! 👋
+

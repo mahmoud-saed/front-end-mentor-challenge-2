@@ -1,0 +1,89 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    background-color: white;
+    position: relative;
+}
+
+.red {
+    background-color: rgb(253, 253, 253);
+    width: 300px;
+    height: 250px;
+    border-radius: 8px;
+    border-top: hsl(0, 78%, 62%) solid 4px;
+    padding-left: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    position: absolute;
+    top: 70px;
+    left: 515px;
+}
+
+.red h2,
+.cyan h2,
+.orange h2,
+.bule h2 {
+    padding-top: 30px;
+}
+
+.red p,
+.cyan p,
+.orange p,
+.bule p {
+    padding-top: 15px;
+    font-size: 15px;
+    color: hsl(0, 0%, 66%);
+    line-height: 1.6;
+}
+
+.red img,
+.cyan img,
+.orange img,
+.bule img {
+    position: absolute;
+    right: 30px;
+    top: 160px;
+}
+
+.bule {
+    background-color: rgb(253, 253, 253);
+    width: 300px;
+    height: 250px;
+    border-radius: 11px;
+    border-top: hsl(212, 86%, 64%) solid 4px;
+    padding-left: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    position: absolute;
+    top: 210px;
+    left: 880px;
+}
+
+.orange {
+    background-color: rgb(253, 253, 253);
+    width: 300px;
+    height: 250px;
+    border-radius: 8px;
+    border-top: hsl(34, 97%, 64%) solid 4px;
+    padding-left: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    position: absolute;
+    top: 360px;
+    left: 515px;
+}
+
+.cyan {
+    background-color: rgb(253, 253, 253);
+    width: 300px;
+    height: 250px;
+    border-radius: 8px;
+    border-top: hsl(180, 62%, 55%) solid 4px;
+    padding-left: 35px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    position: absolute;
+    top: 210px;
+    left: 150px;
+}
